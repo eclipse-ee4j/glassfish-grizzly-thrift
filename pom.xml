@@ -29,7 +29,7 @@
 
     <groupId>org.glassfish.grizzly</groupId>
     <artifactId>grizzly-thrift</artifactId>
-    <version>1.3.17-SNAPSHOT</version>
+    <version>1.4.0-SNAPSHOT</version>
 
     <name>Grizzly - Thrift</name>
     <description>Java server/client library that integrates the transport layer of Apache Thrift (RPC framework) with Grizzly</description>
